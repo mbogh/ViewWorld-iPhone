@@ -33,7 +33,7 @@
 #import "Entry.h"
 
 //DEBUG
-#define DEBUG
+//#define DEBUG
 
 //URLs
 
